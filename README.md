@@ -13,7 +13,7 @@ environment: pytorch 1.8, cuda 11.1
 1.3 extract the downloaded data to the current folder
 
 2. test with pretrained model: 
-3. 
+
 download the pretrained model to the current folder: https://drive.google.com/file/d/1BxIXY9IfLvXq3ppfo57O5u90F_Gx1jN1/view?usp=sharing
 
 command: "python test_alignment.py"
