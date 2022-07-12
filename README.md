@@ -24,7 +24,7 @@ The distorted and aligned images will be stored in "images" folder
 
 command: "python RATE_encoder.py"
 
-The trained model will be saved in the current folder (default: "discriminator_rst_6000").
+The trained model will be saved in the current folder (default: "encoder_rst_6000").
 
 You can then test the trained model with: 
 
